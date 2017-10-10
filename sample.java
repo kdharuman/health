@@ -6,3 +6,4 @@ public class sample	{
 		System.out.println("Welcome to Java");
 	}
 }
+
